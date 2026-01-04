@@ -18,5 +18,5 @@ A modern GUI-based Student Management System built using Python and Tkinter.
    ```bash
    python student_management.py
 
-##Author
+## Author
 Sharvil Mangesh Mithari
