@@ -1,3 +1,6 @@
+```md
+![App Screenshot](screenshot.png)
+
 # Student Management System (Python GUI)
 
 A modern GUI-based Student Management System built using Python and Tkinter.
